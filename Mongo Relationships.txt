@@ -1,0 +1,8 @@
+********** MONGO RELATIONSHIPS **********
+
+-One to few
+    Embed the data directly in the document
+
+-One to many 
+    One option is to store your data separately, but then store references to document ID's
+    somewhere inside the parent

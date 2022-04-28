@@ -1,0 +1,23 @@
+{
+  "name": "data-relationships-with-mongo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adaazunigaa/Data-Relationships-with-Mongo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adaazunigaa/Data-Relationships-with-Mongo/issues"
+  },
+  "homepage": "https://github.com/adaazunigaa/Data-Relationships-with-Mongo#readme",
+  "dependencies": {
+    "mongoose": "^6.3.1"
+  }
+}
