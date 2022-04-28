@@ -6,3 +6,7 @@
 -One to many 
     One option is to store your data separately, but then store references to document ID's
     somewhere inside the parent
+
+-One to bajillions 
+    With thousands or more documents, it's more efficient to store a reference to the 
+    parent on the child document
